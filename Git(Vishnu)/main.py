@@ -10,3 +10,6 @@ def find_first_non_repeating_char(string):
         if char_count[char] == 1:
             return char
     return None
+string = "Rolls Royce"
+result = find_first_non_repeating_char(string)
+print(result)
