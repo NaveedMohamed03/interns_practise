@@ -1,3 +1,7 @@
+"""1. Write a Python function that takes a list of strings and returns the longest string."""
+
+
+
 l=["vinoth","mohamad naveed","vijay"]
 for i in range(0,len(l)):
     for j in range(i+1,len(l)):
