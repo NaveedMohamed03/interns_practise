@@ -3,7 +3,6 @@ sum=0
 for i in l:
     sum=sum+i
 print(sum)
-
 """
 pseudocode 
 1.take a list 
@@ -12,3 +11,5 @@ pseudocode
 add that i into sum
 printsum
 """
+
+
