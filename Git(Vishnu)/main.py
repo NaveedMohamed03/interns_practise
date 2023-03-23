@@ -8,3 +8,5 @@ def find_first_non_repeating_char(string):
 
     for char in string:
         if char_count[char] == 1:
+            return char
+    return None
