@@ -1,0 +1,4 @@
+create folder ( with your name in the given repo) work on that folder.
+use small letters to commit
+use branch and work , don't work on main directly.
+work on pycharm , dont need of text file, take simples question from python commit and push.
