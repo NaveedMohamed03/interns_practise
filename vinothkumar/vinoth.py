@@ -1,3 +1,4 @@
+# pseudocode
 l=["vinoth","kumar","mohamadnaveed"]
 for i in range(0,len(l)):
     for j in range(i+1, len(l)):
