@@ -14,6 +14,8 @@ string = "Rolls Royce"
 result = find_first_non_repeating_char(string)
 print(result)
 
+
+
 """
 First write def function 
 Then by using for loop iteration takes place 
